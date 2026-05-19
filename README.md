@@ -4,7 +4,6 @@
 
 I help businesses save 20+ hours/week by building intelligent automation systems, AI bots, and custom Shopify solutions.
 
----
 
 ## 🤖 What I Build
 
@@ -13,7 +12,6 @@ I help businesses save 20+ hours/week by building intelligent automation systems
 - **Shopify Solutions** — Custom apps, store automation, AI product descriptions
 - **Full-Stack Apps** — Next.js, MERN, TypeScript, PostgreSQL
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +23,6 @@ I help businesses save 20+ hours/week by building intelligent automation systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
 
----
 
 ## 📫 Let's Connect
 
